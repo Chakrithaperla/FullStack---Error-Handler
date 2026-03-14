@@ -1,7 +1,7 @@
 # Fullstack Error Handling Demo
 
-This workspace demonstrates centralized error handling in an Express backend and user-friendly error feedback in a React frontend using toast notifications.
-
+## Error Handling Implementation
+This project demonstrates full-stack error handling using Express middleware and React frontend.
 ## ✅ What’s Included
 
 ### Backend (Express)
